@@ -1,0 +1,2 @@
+let T=((fn x.x+1),(fn x.x+2))
+in Print (T 2 4, T 2 2)

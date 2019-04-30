@@ -1,0 +1,10 @@
+ let c=3 within  fn x. x+c  in print(3)
+ 
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+let Add (x,y) = x+y
+in Print (Add(3,4))

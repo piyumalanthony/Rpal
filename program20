@@ -1,0 +1,2 @@
+let t=((fn x. x+1),(fn x. x+2))
+in print(t 1 3, t 2 3)

@@ -1,0 +1,6 @@
+let rec merge s1 s2 = not (Isstring s1) -> 's1 is not a string' |
+not (Isstring s2) -> 's2 is not a string' |
+s1 eq '' or s2 eq '' -> Conc s1 s2 |
+(Stem s1 <= Stem s2) -> Conc (Stem s1) (merge (Stern s1) s2) |
+Conc (Stem s2) (merge s1 (Stern s2)) in
+Print ( merge 'acegh' 'bdfi' )

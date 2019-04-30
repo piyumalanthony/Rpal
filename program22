@@ -1,0 +1,7 @@
+let t=(0,1) in let  rec dynamic n = n gr 0 -> (t aug (n-1)) | 0
+in print(dynamic(5))
+
+
+
+
+
